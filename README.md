@@ -82,7 +82,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/hotel-booking-analysis.git
+git clone https://github.com/NAKULYADAVPATIL/hotel-booking-analysis.git
 cd hotel-booking-analysis
 Install required libraries:
 
